@@ -352,7 +352,7 @@ namespace GL.Cache.ExpireTime
         /// <returns>Tuple中：item1：过期时间，item2：多少分钟后过期</returns>
         public static List<Tuple<DateTime, double>> GetNext10ExpireTimeTest(int interval, IntervalType intervalType, DateTime? settingTime = null)
         {
-            List<Tuple<DateTime, double>> next10ExpireTimeList = new(10);
+            List<Tuple<DateTime, double>> next10ExpireTimeList = new List<Tuple<DateTime, double>>(10);
             for (int i = 0; i < 10; i++)
             {
                 DateTime nextExpireTime = GetNextExpireTime(interval, intervalType, settingTime);

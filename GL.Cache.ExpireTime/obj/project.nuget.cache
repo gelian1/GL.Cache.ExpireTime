@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ZwLAyVx0tXQkHRgbKB3T3+Kw4MLlPHRgcQ+qIb8yE6v04JFwNPm1bP1V6p5wVz92HlZikJ01shOVzjgKvZZNkA==",
+  "dgSpecHash": "tcmVO15bDEjVgeu4jeoqSw+X4/G1pysdouHb7RP7qMgUPxvkoRw4nRzdRDnCqmYKAut9jiEKxphDriE7pjvfNQ==",
   "success": true,
   "projectFilePath": "C:\\work\\github\\GL.Cache.ExpireTime\\GL.Cache.ExpireTime\\GL.Cache.ExpireTime.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dulla\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dulla\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

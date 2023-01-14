@@ -1,9 +1,9 @@
-C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTimeTests\bin\Debug\net6.0\CoverletSourceRootsMapping
 C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTimeTests\obj\Debug\net6.0\GL.Cache.ExpireTimeTests.csproj.AssemblyReference.cache
 C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTimeTests\obj\Debug\net6.0\GL.Cache.ExpireTimeTests.GeneratedMSBuildEditorConfig.editorconfig
 C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTimeTests\obj\Debug\net6.0\GL.Cache.ExpireTimeTests.AssemblyInfoInputs.cache
 C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTimeTests\obj\Debug\net6.0\GL.Cache.ExpireTimeTests.AssemblyInfo.cs
 C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTimeTests\obj\Debug\net6.0\GL.Cache.ExpireTimeTests.csproj.CoreCompileInputs.cache
+C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTimeTests\bin\Debug\net6.0\CoverletSourceRootsMapping
 C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTimeTests\bin\Debug\net6.0\testhost.dll
 C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTimeTests\bin\Debug\net6.0\testhost.exe
 C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTimeTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
