@@ -1,0 +1,12 @@
+C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTime\obj\Debug\net6.0\GL.Cache.ExpireTime.csproj.AssemblyReference.cache
+C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTime\obj\Debug\net6.0\GL.Cache.ExpireTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTime\obj\Debug\net6.0\GL.Cache.ExpireTime.AssemblyInfoInputs.cache
+C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTime\obj\Debug\net6.0\GL.Cache.ExpireTime.AssemblyInfo.cs
+C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTime\obj\Debug\net6.0\GL.Cache.ExpireTime.csproj.CoreCompileInputs.cache
+C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTime\bin\Debug\net6.0\GL.Cache.ExpireTime.deps.json
+C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTime\bin\Debug\net6.0\GL.Cache.ExpireTime.dll
+C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTime\bin\Debug\net6.0\GL.Cache.ExpireTime.pdb
+C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTime\obj\Debug\net6.0\GL.Cache.ExpireTime.dll
+C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTime\obj\Debug\net6.0\refint\GL.Cache.ExpireTime.dll
+C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTime\obj\Debug\net6.0\GL.Cache.ExpireTime.pdb
+C:\work\github\GL.Cache.ExpireTime\GL.Cache.ExpireTime\obj\Debug\net6.0\ref\GL.Cache.ExpireTime.dll
